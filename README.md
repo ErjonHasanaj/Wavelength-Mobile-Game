@@ -1,4 +1,4 @@
-# Guessing Game Backend
+# Wavelength Guessing Game Backend
 
 This repository contains the backend code for a multiplayer guessing game. In this game, one player secretly chooses a number between 1 and 10, while the other players attempt to guess the chosen number within three attempts. The guessing players ask comparison questions to the chooser, who answers based on their subjective rankings. Using these answers and knowledge of the chooser's preferences, the guessing players attempt to deduce the chosen number.
 
