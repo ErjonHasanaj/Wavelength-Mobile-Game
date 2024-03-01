@@ -7,7 +7,7 @@ This repository contains the backend code for a multiplayer guessing game. In th
 - Node.js
 - Express.js
 - Socket.IO
-- PostgreSQL
+- MongoDB
 
 ## Installation
 
